@@ -16,9 +16,9 @@
 
 
 ********** Another Way **********
-download Hiren's BootCD iso " https://www.hirensbootcd.org/download/#google_vignette "
-create bootable pendrive use rufus
-than boot pendrive
-after boot hiren's
-click windows btn > all programs > security > passwords > windows login unlocker > [select your user] > reset\unlock
-book your windows.
+1. download Hiren's BootCD iso " https://www.hirensbootcd.org/download/#google_vignette "
+2. create bootable pendrive use rufus
+3. than boot pendrive
+4. after boot hiren's
+5. click windows btn > all programs > security > passwords > windows login unlocker > [select your user] > reset\unlock
+6. book your windows.
