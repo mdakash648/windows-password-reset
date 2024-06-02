@@ -13,3 +13,12 @@
 13. Net user <user name> *
 14. After change password rename 
 15. rename  cmd.exe 
+
+
+********** Another Way **********
+download Hiren's BootCD iso " https://www.hirensbootcd.org/download/#google_vignette "
+create bootable pendrive use rufus
+than boot pendrive
+after boot hiren's
+click windows btn > all programs > security > passwords > windows login unlocker > [select your user] > reset\unlock
+book your windows.
